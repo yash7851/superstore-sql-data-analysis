@@ -111,8 +111,6 @@ The main objectives of this project are to:
 ---
 
 ## 🗄️ Database Structure
-
-```text
 Database
 └── superstore
         ├── Order Information
@@ -122,7 +120,6 @@ Database
         ├── Discount
         ├── Shipping Information
         └── Geographic Information
-
 ## 📋 Business Questions & Analytical Scope
 
 The analysis is structured around **40 business questions** designed to evaluate key areas of business performance and identify patterns within the Superstore dataset.
@@ -220,6 +217,7 @@ The analysis concludes with high-level business metrics derived from the underly
 * Profit Margin
 
 These metrics are used to provide a consolidated view of the business performance analyzed in the project.
+
 
 
 
