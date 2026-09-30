@@ -290,6 +290,4 @@ Executive Summary
 ## 👤 Author
 
 **Yash Angnani**  
-BCA Student | Aspiring Data Analyst
-
-**Skills:** SQL · MySQL · Excel · Python · Power BI · Data Analytics
+Aspiring Data Analyst | Excel | SQL | Python | Power BI
